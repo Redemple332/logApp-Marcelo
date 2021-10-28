@@ -53,7 +53,8 @@
     </div>
     <button type="submit" name="submit" value="Submit" class="btn btn-primary">Submit</button>
   </form>
-  <a href="https://fathomless-lake-84500.herokuapp.com/guestbook-list.php"  class="btn btn-primary">Submit</a>
+  <br>
+  <center><a href="https://fathomless-lake-84500.herokuapp.com/guestbook-list.php"  class="btn btn-primary">Submit</a></center>
 </div>
 <?php include('inc/footer.php'); ?>
 
