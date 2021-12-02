@@ -1,6 +1,6 @@
 <?php
-	define('ROOT_URL', 'https://fathomless-lake-84500.herokuapp.com/');
-	define('DB_HOST', 'sql6.freesqldatabase.com');
-	define('DB_USER', 'sql6447363');
-	define('DB_PASS', 'H3gsmzD6Ir');
-	define('DB_NAME', 'sql6447363');
+define('ROOT_URL', 'https://fathomless-lake-84500.herokuapp.com/');
+define('DB_HOST', 'localhost');
+define('DB_USER', 'root');
+define('DB_PASS', '');
+define('DB_NAME', 'logapp');

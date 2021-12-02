@@ -2,5 +2,7 @@
     "names": "[Redemple332/logApp-Marcelo]",
     "type": "project",
     "minimum-stability": "stable",
-    "require": {}
+    "require": {
+        "fzaninotto/faker": "^1.9"
+    }
 }
